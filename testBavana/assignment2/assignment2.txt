@@ -3,5 +3,12 @@ This is a test file
 Hey Bavana wassup
 welcome
 
+<<<<<<< HEAD
 Hello 
 
+=======
+git status
+git add . (to add all files)
+git commit -m "some message"
+git push
+>>>>>>> bcb3e5c96d8a1f4976783cb90baa833ca21796fd
