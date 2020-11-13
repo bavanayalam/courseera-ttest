@@ -3,3 +3,7 @@ This is a test file
 Hey Bavana wassup
 welcome
 
+git status
+git add . (to add all files)
+git commit -m "some message"
+git push
